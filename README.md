@@ -20,6 +20,7 @@ Store the count of each word in dictionary
 ###Step 7:
 print the dictionary close the file
 ## PROGRAM:
+```
 Program for getting the word count from the contents of a file using command line arguments.
 Developed By: b,barathraj
 refernce number: 22008848
@@ -35,7 +36,7 @@ for line in f:
             d[word]+=1
 print(d)
 f.close()
-
+```
 ### OUTPUT:
 ![5b text](https://user-images.githubusercontent.com/121490575/215133212-9773c9ac-3100-48f3-a0d2-fdba20507891.png)
 ![5b otpt](https://user-images.githubusercontent.com/121490575/215133446-4f9192b0-c4ef-44de-83a0-557832fa43f3.png)
